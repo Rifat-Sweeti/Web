@@ -1,0 +1,30 @@
+.btn-theme {
+    background-color: #75BF7A !important;
+    border-radius: 5px;
+    border: none;
+    width: 150px;
+    height: 40px;
+    color: #fff;
+}
+
+.brand {
+    color: #75BF7A !important;
+}
+
+/* .right {
+    background-color: rgb(121, 250, 210);
+} */
+
+.left {
+    width: 400px !important;
+    height: 300px !important;
+}
+
+.btn-them {
+    background-color: #000 !important;
+    border-radius: 5px;
+    border: none;
+    width: 150px;
+    height: 40px;
+    color: #fff;
+}
